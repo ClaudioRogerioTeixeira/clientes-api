@@ -1,0 +1,14 @@
+{
+  "tipos": [
+    {
+      "id": "1",
+      "tipo": "J",
+      "descricao": "Jurídica"
+    },
+    {
+      "id": "2",
+      "tipo": "F",
+      "descricao": "Física"
+    }
+  ]
+}
