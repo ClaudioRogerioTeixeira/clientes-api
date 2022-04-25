@@ -1,5 +1,4 @@
-{
-  "clientes": [
+[
     {
       "razaoNome": "PALIN & MARTINS ORGANIZACAO TRIBUTARIA LTDA",
       "nomeFantasia": "PALIN & MARTINS",
@@ -69,4 +68,3 @@
       "id": 4
     }
   ]
-}
