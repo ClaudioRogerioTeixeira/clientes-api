@@ -1,5 +1,4 @@
-{
-  "categorias": [
+[
     {
       "id": "1",
       "descricao": "Bebidas"
@@ -29,4 +28,3 @@
       "descricao": "Laticínicos/frios"
     }
   ]
-}
