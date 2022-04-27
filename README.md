@@ -8,7 +8,7 @@ Api Cadastro de Clientes (Json-Server, Node)
 - Json-server é um pacote que pode ser facilmente instalado e executado na solução de hospedagem na nuvem e requer apenas um arquivo .json formatado corretamente.
 
 ## Deploy Heroku
-- heroku git:remote -a app-clientes-api
+- heroku git:remote -a seu-app
 - heroku login
 - git add .
 - git commit -am "sua descrição"
