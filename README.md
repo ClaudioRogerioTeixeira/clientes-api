@@ -7,6 +7,9 @@ Api Cadastro de Clientes (Json-Server, Node)
 - Uma dessas ferramentas é um pacote npm chamado json-server.
 - Json-server é um pacote que pode ser facilmente instalado e executado na solução de hospedagem na nuvem e requer apenas um arquivo .json formatado corretamente.
 
+## Local
+- node server
+
 ## Deploy Heroku
 - heroku git:remote -a seu-app
 - heroku login
